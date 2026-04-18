@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bcc3ddb77bba25b9a06a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cm-Debug-6a82dba11096a392ebda.json",
+					"name" : "cm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cm_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cm_autogen-Debug-06a4d488f3894ceec7b6.json",
+					"name" : "cm_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cm_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cm_autogen_timestamp_deps-Debug-128f0938f240ac9e11bb.json",
+					"name" : "cm_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/qichangjie/Desktop/qtday/cm2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/qichangjie/Desktop/qtday/cm2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
